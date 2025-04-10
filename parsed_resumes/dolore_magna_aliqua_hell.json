@@ -1,0 +1,31 @@
+{
+    "name": "dolore magna aliqua",
+    "email": "hello@reallygreatsite.com",
+    "experience": [
+        "Ginyard International Co. 2020 \u2013 2023",
+        "Working with the wider development team.",
+        "Working with the wider development team.",
+        "Ginyard International Co. 2017- 2019",
+        "Working with the wider development team."
+    ],
+    "education": [
+        "Bachelor of Design Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+        "Wardiere University eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim",
+        "Bachelor of Design",
+        "Wardiere University",
+        "Bachelor of Design",
+        "Wardiere University"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "social_links": {
+        "Portfolio": [
+            "",
+            "",
+            "com"
+        ]
+    }
+}
